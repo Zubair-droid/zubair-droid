@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Know me, 👋 I'm Zubair</h1>
-<p align="center"> Final year undergrad at SRM IST.</p>
+<p align="center"> SDE @ Siemens.</p>
 <p align="center">
 <a href="https://twitter.com/SyedZubairSU1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/SyedZubairSU1" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/syedzubair-msa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/syedzubair-msa" height="30" width="30" /></a>
